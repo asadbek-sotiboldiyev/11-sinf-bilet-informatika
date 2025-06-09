@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+header{
+    background-color: #123456;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+}
+.left{
+    font-size: 40px;
+    font-weight: bold;
+}
+.link{
+    font-size: 20px;
+    display: inline-block;
+    padding: 13px 20px;
+    transition: 0.2s;
+}
+.link:hover{
+    color: coral;
+}
+.support{
+    display: inline-block;
+    background-color: #00be6f;
+    padding: 13px 20px;
+    border-radius: 8px;
+}
