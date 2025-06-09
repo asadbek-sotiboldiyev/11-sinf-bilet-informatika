@@ -5,4 +5,3 @@
 
 ---
 
-> by: Asadbek Sotiboldiyev
